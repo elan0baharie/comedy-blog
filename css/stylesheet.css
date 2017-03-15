@@ -1,0 +1,15 @@
+.one {
+  color: blue;
+  font-family: cursive;
+}
+
+.two {
+  color: red;
+  font-style: italic;
+  font-family: times;
+}
+
+.intro_paragraph {
+  font-family: cursive;
+  color: #f47d42;
+}
